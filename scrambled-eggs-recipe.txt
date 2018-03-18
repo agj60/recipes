@@ -1,0 +1,10 @@
+Ingredients:
+    - soybean oil
+    - salt
+    - eggs
+    
+Directions:
+    - Heat the oil in a saucepan
+    - Break the egg and put its content into the saucepan
+    - Put some salt
+    - Scramble the egg until it gets in the deriserd consitency
